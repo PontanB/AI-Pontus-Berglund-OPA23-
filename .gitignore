@@ -160,3 +160,8 @@ cython_debug/
 #.idea/
 
 data/ml-latest
+Labb2/original_data
+Labb2/expriment_small_data
+Labb2/expriment_tiny_data
+Labb2/kladd_data
+Labb2/kladd.ipynb
